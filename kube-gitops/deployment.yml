@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: petstore-api
-        image: ghcr.io/nitichaikardkarnklai/devops-java-example:342b25a526f325f284259db8f71d8c866b2b527d
+        image: ghcr.io/nitichaikardkarnklai/devops-java-example:ce420816c53063098c5ff1a9f089a3bf801343e7
         imagePullPolicy: Always
         ports:
         - containerPort: 9090
